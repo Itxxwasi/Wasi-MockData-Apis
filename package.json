@@ -1,7 +1,24 @@
 {
   "name": "react-example",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "MockDev API Hub - Premium Developer Sandbox, Free Mock APIs, and REST/GraphQL Mock Data services built by ITXXWASI (Muhammad Waseem).",
+  "author": "Muhammad Waseem (MR WASI / ITXXWASI)",
+  "keywords": [
+    "MR WASI",
+    "WASI DEV",
+    "ITXXWASI",
+    "MUHAMMAD WASEEM",
+    "WASI TECH",
+    "WASI SER",
+    "MOCK DATA",
+    "FREE APIS",
+    "E COMMERS APIS",
+    "REST APIS",
+    "GRAPHQL APIS",
+    "DEVELOPER SANDBOX",
+    "CUSTOM SCHEMA GENERATOR"
+  ],
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",

@@ -579,7 +579,7 @@ except Exception as e:
               <span className={`text-[9px] uppercase font-mono px-1.5 py-0.5 rounded-md font-bold ${
                 theme === 'dark' ? 'bg-[#1F1F22] text-blue-400 border border-[#262629]' : 'bg-[#F4F4F5] text-blue-600 border border-[#E4E4E7]'
               }`}>
-                v1.0 Seeded
+                by ITXXWASI
               </span>
             </div>
             <p className={`text-[10px] hidden sm:block ${theme === 'dark' ? 'text-[#52525B]' : 'text-slate-400'}`}>100+ High-Fidelity Deterministic Mock APIs</p>
@@ -1816,11 +1816,13 @@ except Exception as e:
         theme === 'dark' ? 'bg-[#0A0A0B] border-[#1F1F22] text-[#52525B]' : 'bg-zinc-50 border-[#E4E4E7] text-slate-500'
       }`}>
         <div className="flex items-center space-x-2 text-[10px] font-mono">
-          <span>Persisted: <span className={theme === 'dark' ? 'text-[#A1A1AA]' : 'text-slate-850'}>Seeded context in-memory</span></span>
+          <span>Persisted: <span className={theme === 'dark' ? 'text-[#A1A1AA]' : 'text-slate-850'}>Seeded mock data caches in-memory</span></span>
+          <span className="opacity-40">|</span>
+          <span>Developer: <span className="text-blue-500 font-bold">Muhammad Waseem (ITXXWASI)</span></span>
         </div>
 
         <div className="text-[10px] font-mono opacity-80">
-          MockDev Hub — Premium Developer Sandbox
+          MockDev Hub — Designed by MR WASI | Premium Sandbox
         </div>
       </footer>
 
