@@ -1,0 +1,6 @@
+{
+  "name": "MockDev API Hub",
+  "description": "A developer platform offering 100+ types of highly professional mock data APIs, complete with documentation, an interactive playground, dynamic custom schema builders, and code samples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
